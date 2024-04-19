@@ -1,0 +1,93 @@
+@media screen and (min-width:1200px) and (max-width:1910px){
+
+    .left > img {
+        height: 13vh;
+    }
+
+    .botao {
+        font-size: 10pt;
+    }
+
+    .login {
+        font-size: 10pt;
+    }
+
+    .register {
+        font-size: 11pt;
+    }
+
+    .title {
+        font-size: 33pt;
+    }
+
+    .description {
+        font-size: 13pt;
+    }
+
+    .sec-1-right > img {
+        height: 80vh;
+        width: 35vw;
+    }
+
+    .sec-2-left > img {
+        height: 80vh;
+        width: 35vw;
+    }
+
+    .title2 {
+        font-size: 35pt;
+    }
+
+    .description2 {
+        font-size: 13pt;
+    }
+
+    .input {
+        font-size: 13pt;
+    }
+
+    .input-news {
+        font-size: 10pt;
+    }
+
+    .button-1 {
+        font-size: 13pt;
+    }
+
+    .logo > img {
+        height: 4vh;
+        width: 7vw;
+    }
+    
+    .central{
+        margin-right: 13.9%;
+    }
+
+    .central-t {
+        font-size: 10pt;
+    }
+    
+    .title-news {
+        font-size: 10pt;
+    }
+
+    .title-foot {
+        font-size: 10pt;
+    }
+
+    .caminhos {
+        font-size: 10pt;
+    }
+
+    .news-b > img {
+        height: 2vh;
+        width: 1vw;
+    }
+    .loc {
+        font-size: 10pt;
+    }
+
+    footer {
+        height: 95vh    ;
+    }
+}
